@@ -1,0 +1,5 @@
+/home/navid/CipmodbusQt/build/Desktop-Debug/CMakeFiles/CipmodbusQt.dir
+/home/navid/CipmodbusQt/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/navid/CipmodbusQt/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/navid/CipmodbusQt/build/Desktop-Debug/CMakeFiles/CipmodbusQt_autogen_timestamp_deps.dir
+/home/navid/CipmodbusQt/build/Desktop-Debug/CMakeFiles/CipmodbusQt_autogen.dir
